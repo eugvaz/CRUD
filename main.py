@@ -1,6 +1,7 @@
-from list_CRUD import *
+from file_CRUD import *
 
-my_pets = load_default_data()
+
+my_pets = load_my_pets()
 id_counter = 5
 
 while True:
